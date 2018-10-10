@@ -1,0 +1,48 @@
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 54.8px;
+    float: left;
+  }
+  
+  .h-header {
+    background-color: #282c34;
+    width: 70%;
+    padding: 0 15%;
+    /* min-height: 20vmin; */
+    height: 54.8px;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: flex-start; 
+    
+    color: white;
+  }
+
+  .h-header .width3 {
+    flex: 30%;
+    align-items: center;
+    height: 54.8px;
+  }
+
+  .h-header .width7 {
+    flex: 70%;
+    align-items: center;
+    text-align: center;
+    height: 54.8px;
+  }
+
+  .h-header p {
+      font-size: calc(10px + 2vmin);
+      margin: auto;
+      line-height: 54.8px;
+      height: 54.8px;
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
