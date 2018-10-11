@@ -1,0 +1,17 @@
+.Footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 34.8px;
+    color: white;
+    background-color: #282c34;
+}
+
+.f-feader {
+    width: 70%;
+    padding: 0 15%;
+    height: 34.8px;
+    color: white;
+    text-align: center;
+}
