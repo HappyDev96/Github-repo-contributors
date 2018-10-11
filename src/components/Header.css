@@ -4,6 +4,10 @@
     float: left;
   }
   
+.Header {
+    height: 54.8px;
+}
+
   .h-header {
     background-color: #282c34;
     width: 70%;

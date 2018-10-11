@@ -1,0 +1,19 @@
+.Content {
+    height: calc(100vh - 54.8px - 34.8px - 10px);
+    margin: 5px 0;
+}
+
+.Content .c-content{
+    width: 70%;
+    margin: 0 15%;
+    height: 100%;
+}
+
+.c-content ul {
+    list-style: none;
+}
+
+.c-content ul li {
+    margin: 15px 0;
+    text-align: left;
+}
